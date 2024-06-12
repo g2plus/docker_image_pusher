@@ -1,6 +1,21 @@
-nginx
+nginx:1.27.0-alpine3.19
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+mysql:5.7.44
+redis:7.2.5
+mongo:5.0.27
+elasticsearch:7.17.19
+kibana:7.17.19
+neo4j:5.20.0-community
+bitnami/kafka:3.3.2
+apache/rocketmq:5.2.0
+apacherocketmq/rocketmq-dashboard:1.0.0
+rabbitmq:3.13.3-management
+zookeeper:3.9.2
+nacos/nacos-server:v2.3.2
+superng6/qbittorrent:4.6.5_v2.0.10
+eqalpha/keydb:alpine
+python:alpine3.20
