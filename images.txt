@@ -18,4 +18,3 @@ zookeeper:3.9.2
 nacos/nacos-server:v2.3.2
 superng6/qbittorrent:4.6.5_v2.0.10
 eqalpha/keydb:alpine
-python:alpine3.20
