@@ -12,3 +12,4 @@ neo4j:5.20.0-community
 rabbitmq:3.13.3-management
 zookeeper:3.9.2
 webcenter/activemq:5.14.3
+apache/activemq-classic:5.17.6
