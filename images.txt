@@ -4,6 +4,7 @@ xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 mysql:5.7.44
+mysql:8.0.37
 redis:7.2.5
 mongo:5.0.27
 elasticsearch:7.17.19
