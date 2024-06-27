@@ -14,3 +14,4 @@ rabbitmq:3.13.3-management
 zookeeper:3.9.2
 webcenter/activemq:5.14.3
 apache/activemq-classic:5.17.6
+emqx/emqx:5.7
