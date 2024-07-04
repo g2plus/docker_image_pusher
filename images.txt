@@ -7,8 +7,8 @@ mysql:5.7.44
 mysql:8.0.37
 redis:7.2.5
 mongo:5.0.27
-elasticsearch:7.17.19
-kibana:7.17.19
+elasticsearch:7.14.1
+kibana:7.14.1
 neo4j:5.20.0-community
 rabbitmq:3.13.3-management
 zookeeper:3.9.2
